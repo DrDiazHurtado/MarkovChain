@@ -1,4 +1,4 @@
-Markov Chains
+Generating lyrics with Markov Chains
 ----------------------------
 
 A Markov chain is a mathematical model that describes a system's transition from one state to another over a sequence of discrete time steps. 
